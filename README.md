@@ -2,8 +2,16 @@
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
-- [Crafting discoverable repositories](discoverable/)
-- [Useful templates](templates/)
+### Getting Started
+
+- [Advantages of adpoting an InnerSource strategy](adopting-innersource-strategy/)
+- [Breaking down team silos](breaking-down-silos/)
+- [GitHub overview](github-overview/)
+
+### Creating an InnerSource Culture
+- [Understanding cultural ingredients](cultural-ingredients/)
+- [Working through cultural resistance](cultural-resistance/)
+
 - [Measuring success](metrics/)
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
